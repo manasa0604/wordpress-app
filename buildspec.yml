@@ -4,7 +4,7 @@ version: 0.2
 env:
   variables:
     AWS_REGION: ap-south-1
-    REPOSITORY_URI: 026090540155.dkr.ecr.ap-south-1.amazonaws.com/wordpress
+    REPOSITORY_URI: 097423744847.dkr.ecr.ap-south-1.amazonaws.com/wordpress
 phases:
   pre_build:
     commands:
